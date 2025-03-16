@@ -7,7 +7,7 @@ export default function Home() {
       <h1 className={styles.title}>Lucas Projects</h1>
       <div className={styles.buttonContainer}>
         <a href="https://pooppuncher.vercel.app">
-          <Image src="/poop.png" alt="Pooppuncher" width={450} height={225} />
+          <Image src="/pooppuncher.png" alt="Pooppuncher" width={450} height={225} />
         </a>
         <a href="https://deskpet.org">
           <Image src="/deskpets.png" alt="Deskpets" width={400} height={225} />
