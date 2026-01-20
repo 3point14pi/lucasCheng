@@ -15,6 +15,9 @@ export default function Home() {
         <a href="https://ispyai.com">
           <Image src="/ispyai.png" alt="iSpyAi" width={400} height={225} />
         </a>
+        <a href="https://roachranger-hykucy6qjxgetw447gcsfx.streamlit.app/">
+          <Image src="/ispyai.png" alt="iSpyAi" width={400} height={225} />
+        </a>
       </div>
     </div>
   );
